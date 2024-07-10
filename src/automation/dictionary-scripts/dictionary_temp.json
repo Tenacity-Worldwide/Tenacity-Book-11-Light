@@ -1,0 +1,3056 @@
+{
+  "observer": {
+    "entries": [
+      {
+        "entry": "observer",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/ɒb-/", "notation": "IPA" },
+              { "transcription": "/əbˈzɜːvə/", "notation": "IPA" }
+            ],
+            "context": { "regions": ["United Kingdom"] }
+          },
+          {
+            "transcriptions": [
+              { "transcription": "/ɑb-/", "notation": "IPA" },
+              { "transcription": "/əbˈzɝvɚ/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/observer-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2651233"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "observer",
+            "normalizedLemmas": [{ "lemma": "observer" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "observe", "type": "root" },
+              { "entry": "-er", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "observer",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "One who makes observations, monitors or takes notice",
+                "labels": ["countable"],
+                "usageExamples": [
+                  "Most impartial observers agreed that Sampras had not served well."
+                ]
+              },
+              {
+                "definition": "One who adheres or follows laws, guidelines, etc.",
+                "labels": ["countable"],
+                "usageExamples": [
+                  "I shall be an observer of the local customs."
+                ]
+              },
+              {
+                "definition": "A person sent as a representative, to a meeting or other function to monitor but not to participate",
+                "labels": ["countable"],
+                "usageExamples": [
+                  "The UN sent many observers to the country's first elections."
+                ]
+              },
+              {
+                "definition": "A country or other entity which has limited participation rights within an organization.",
+                "labels": ["countable"],
+                "usageExamples": [
+                  "The Vatican and Palestine have observer status at the UN."
+                ]
+              },
+              {
+                "definition": "A crew member on an aircraft who makes observations of enemy positions or aircraft",
+                "labels": ["countable"],
+                "context": { "domains": ["military"] },
+                "usageExamples": [
+                  "The only crew-member to survive the crash was the Canadian observer."
+                ]
+              },
+              {
+                "definition": "A sentry etc. manning an observation post",
+                "labels": ["countable"],
+                "context": { "domains": ["military"] },
+                "usageExamples": [
+                  "We waited till dusk when the observers' vision was poorest."
+                ]
+              }
+            ],
+            "forms": [
+              {
+                "form": "observers",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ],
+            "synonymSets": [{ "synonyms": ["beholder"] }]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/observer"]
+      }
+    ]
+  },
+  "education": {
+    "entries": [
+      {
+        "entry": "education",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/ˌɛdjʊˈkeɪʃn̩/", "notation": "IPA" },
+              { "transcription": "/ˌɛd͡ʒʊˈkeɪʃn̩/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/education-uk.mp3",
+              "license": {
+                "name": "BY 3.0 US",
+                "url": "https://creativecommons.org/licenses/by/3.0/us"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014400"
+            },
+            "context": { "regions": ["United Kingdom"] }
+          },
+          {
+            "transcriptions": [
+              { "transcription": "/ˌɛdjʊˈkeɪʃn̩/", "notation": "IPA" },
+              { "transcription": "/ˌɛd͡ʒʊˈkeɪʃn̩/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/education-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=857003"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "hyphenations": [["ed", "u", "ca", "tion"]],
+        "interpretations": [
+          {
+            "lemma": "education",
+            "normalizedLemmas": [{ "lemma": "education" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "educate", "type": "root" },
+              { "entry": "-ion", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "education",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "The process of imparting knowledge, skill and judgment.",
+                "labels": ["uncountable"],
+                "usageExamples": [
+                  "2016-06-17 AROP JOSEPH \"Education is the slight hammer that breaks the yoke of ignorance, and moulds knowledge, skills, ideas, good moral values in a person be it a child, a youth or full grown adult. no matter a persons age learning never stops\".",
+                  "Good education is essential for a well-run society."
+                ]
+              },
+              {
+                "definition": "Facts, skills and ideas that have been learned, either formally or informally.",
+                "labels": ["countable"],
+                "usageExamples": [
+                  "He has had a classical education.",
+                  "The educations our children receive depend on their economic status."
+                ]
+              }
+            ],
+            "forms": [
+              {
+                "form": "educations",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/education"]
+      }
+    ]
+  },
+  "bachelor's degree": {
+    "entries": [
+      {
+        "entry": "bachelor's degree",
+        "interpretations": [
+          {
+            "lemma": "bachelor's degree",
+            "normalizedLemmas": [{ "lemma": "bachelor's degree" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "bachelor's degree",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "The first or lowest academic degree conferred by universities and colleges; a baccalaureate.",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "bachelor's degrees",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/bachelor's%20degree"]
+      }
+    ]
+  },
+  "bimonthly": {
+    "entries": [
+      {
+        "entry": "bimonthly",
+        "pronunciations": [
+          {
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/bimonthly-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769848"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "bimonthly",
+            "normalizedLemmas": [{ "lemma": "bimonthly" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "bi-", "type": "prefix" },
+              { "entry": "month", "type": "root" },
+              { "entry": "-ly", "type": "suffix" }
+            ]
+          },
+          {
+            "lemma": "bimonthly",
+            "normalizedLemmas": [{ "lemma": "bimonthly" }],
+            "partOfSpeech": "adjective",
+            "morphemes": [
+              { "entry": "bi-", "type": "prefix" },
+              { "entry": "month", "type": "root" },
+              { "entry": "-ly", "type": "suffix" }
+            ]
+          },
+          {
+            "lemma": "bimonthly",
+            "normalizedLemmas": [{ "lemma": "bimonthly" }],
+            "partOfSpeech": "adverb",
+            "morphemes": [
+              { "entry": "bi-", "type": "prefix" },
+              { "entry": "month", "type": "root" },
+              { "entry": "-ly", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "bimonthly",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "A publication that is published on a bimonthly basis.",
+                "labels": ["countable"],
+                "usageExamples": [
+                  "We have to get the report done. If the boss doesn't get his bimonthly he'll scream."
+                ]
+              }
+            ],
+            "forms": [
+              {
+                "form": "bimonthlies",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          },
+          {
+            "lemma": "bimonthly",
+            "partOfSpeech": "adjective",
+            "senses": [
+              {
+                "definition": "Occurring once every two months; bimestrial",
+                "labels": ["not comparable"]
+              },
+              {
+                "definition": "Twice every month; semimonthly.",
+                "labels": ["not comparable"],
+                "usageExamples": ["His bimonthly appointment was almost due."]
+              }
+            ]
+          },
+          {
+            "lemma": "bimonthly",
+            "partOfSpeech": "adverb",
+            "senses": [
+              {
+                "definition": "Once every two months; bimestrially",
+                "labels": ["not comparable"]
+              },
+              {
+                "definition": "Twice every month; semimonthly.",
+                "labels": ["not comparable"],
+                "usageExamples": ["They checked on his progress bimonthly."]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/bimonthly"]
+      }
+    ]
+  },
+  "cut": {
+    "entries": [
+      {
+        "entry": "cut",
+        "pronunciations": [
+          {
+            "transcriptions": [{ "transcription": "/kʌt/", "notation": "IPA" }],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/cut-au.mp3",
+              "license": {
+                "name": "BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75270176"
+            },
+            "context": { "regions": ["Australia"] }
+          },
+          {
+            "transcriptions": [{ "transcription": "/kʌt/", "notation": "IPA" }],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/cut-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1227599"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "cut",
+            "normalizedLemmas": [{ "lemma": "cut" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }]
+          },
+          {
+            "lemma": "cut",
+            "normalizedLemmas": [{ "lemma": "cut" }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person"],
+                "number": ["singular"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["past"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["subjunctive"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "mood": ["imperative"]
+              },
+              { "verbForm": ["participle"], "tense": ["past"] },
+              { "verbForm": ["infinitive"] }
+            ]
+          },
+          {
+            "lemma": "cut",
+            "normalizedLemmas": [{ "lemma": "cut" }],
+            "partOfSpeech": "adjective",
+            "grammar": [{ "degree": ["positive"] }]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "cut",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "The act of cutting.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": ["He made a fine cut with his sword."]
+              },
+              {
+                "definition": "The result of cutting.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": ["a smooth or clear cut"]
+              },
+              {
+                "definition": "An opening resulting from cutting; an incision or wound.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": ["Look at this cut on my finger!"]
+              },
+              {
+                "definition": "A notch, passage, or channel made by cutting or digging; a furrow; a groove.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": ["a cut for a railroad"],
+                "subSenses": [
+                  {
+                    "definition": "An artificial navigation as distinguished from a navigable river"
+                  }
+                ]
+              },
+              {
+                "definition": "A share or portion.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": ["The lawyer took a cut of the profits."]
+              },
+              {
+                "definition": "A batsman's shot played with a swinging motion of the bat, to hit the ball backward of point.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["cricket"] }
+              },
+              {
+                "definition": "Sideways movement of the ball through the air caused by a fast bowler imparting spin to the ball.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["cricket"] }
+              },
+              {
+                "definition": "In lawn tennis, etc., a slanting stroke causing the ball to spin and bound irregularly; also, the spin thus given to the ball.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["sports"] }
+              },
+              {
+                "definition": "In a strokeplay competition, the early elimination of those players who have not then attained a preannounced score, so that the rest of the competition is less pressed for time and more entertaining for spectators.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["golf"] }
+              },
+              {
+                "definition": "A passage omitted or to be omitted from a play.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["performing arts", "theater"] },
+                "usageExamples": [
+                  "The director asked the cast to note down the following cuts."
+                ]
+              },
+              {
+                "definition": "A particular version or edit of a film.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["cinematography"] }
+              },
+              {
+                "definition": "The act or right of dividing a deck of playing cards.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["card games"] },
+                "usageExamples": [
+                  "The player next to the dealer makes a cut by placing the bottom half on top."
+                ]
+              },
+              {
+                "definition": "The card obtained by dividing the pack.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["card games"] }
+              },
+              {
+                "definition": "The manner or style a garment etc. is fashioned in.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": ["I like the cut of that suit."]
+              },
+              {
+                "definition": "A slab, especially of meat.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": ["That’s our finest cut of meat."]
+              },
+              {
+                "definition": "An attack made with a chopping motion of the blade, landing with its edge or point.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["fencing"] }
+              },
+              {
+                "definition": "A deliberate snub, typically a refusal to return a bow or other acknowledgement of acquaintance.",
+                "labels": ["countable", "uncountable"]
+              },
+              {
+                "definition": "An unkind act; a cruelty.",
+                "labels": ["countable", "uncountable"]
+              },
+              {
+                "definition": "A definable part, such as an individual song, of a recording, particularly of commercial records, audio tapes, CDs, etc.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": [
+                  "The drummer on the last cut of their CD is not identified."
+                ]
+              },
+              {
+                "definition": "A truncation, a context that represents a moment in time when other archaeological deposits were removed for the creation of some feature such as a ditch or pit.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["archaeology"] }
+              },
+              {
+                "definition": "A haircut.",
+                "labels": ["countable", "uncountable"]
+              },
+              {
+                "definition": "The partition of a graph’s vertices into two subgroups.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["mathematics"] }
+              },
+              {
+                "definition": "A string of railway cars coupled together.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["rail transport", "transport"] }
+              },
+              {
+                "definition": "An engraved block or plate; the impression from such an engraving.",
+                "labels": ["countable", "uncountable"],
+                "usageExamples": ["a book illustrated with fine cuts"]
+              },
+              {
+                "definition": "A common workhorse; a gelding.",
+                "labels": ["countable", "obsolete", "uncountable"]
+              },
+              {
+                "definition": "The failure of a college officer or student to be present at any appointed exercise.",
+                "labels": ["countable", "obsolete", "slang", "uncountable"]
+              },
+              {
+                "definition": "A skein of yarn.",
+                "labels": ["countable", "uncountable"]
+              },
+              {
+                "definition": "That which is used to dilute or adulterate a recreational drug.",
+                "labels": ["slang", "uncountable"],
+                "usageExamples": ["Don't buy his coke: it's full of cut."]
+              },
+              {
+                "definition": "A notch shaved into an eyebrow.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["fashion"] }
+              },
+              {
+                "definition": "A time period when one tries to lose fat while retaining muscle mass.",
+                "labels": ["countable", "uncountable"],
+                "context": { "domains": ["bodybuilding"] }
+              },
+              {
+                "definition": "A hidden or secure place.",
+                "labels": ["countable", "slang", "uncountable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "cuts",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          },
+          {
+            "lemma": "cut",
+            "partOfSpeech": "verb",
+            "senses": [
+              {
+                "definition": "(heading) To incise, to cut into the surface of something.",
+                "labels": ["transitive"],
+                "subSenses": [
+                  {
+                    "definition": "To perform an incision on, for example with a knife."
+                  },
+                  {
+                    "definition": "To divide with a knife, scissors, or another sharp instrument.",
+                    "usageExamples": ["Would you please cut the cake?"]
+                  },
+                  {
+                    "definition": "To form or shape by cutting.",
+                    "usageExamples": ["I have three diamonds to cut today."]
+                  },
+                  {
+                    "definition": "To wound with a knife.",
+                    "labels": ["slang"]
+                  },
+                  {
+                    "definition": "To engage in self-harm by making cuts in one's own skin.",
+                    "labels": ["intransitive"],
+                    "usageExamples": [
+                      "The patient said she had been cutting since the age of thirteen."
+                    ]
+                  },
+                  {
+                    "definition": "To deliver a stroke with a whip or like instrument to."
+                  },
+                  {
+                    "definition": "To wound or hurt deeply the sensibilities of; to pierce.",
+                    "usageExamples": ["Sarcasm cuts to the quick."]
+                  },
+                  {
+                    "definition": "To castrate or geld.",
+                    "usageExamples": ["to cut a horse"]
+                  },
+                  {
+                    "definition": "To interfere, as a horse; to strike one foot against the opposite foot or ankle in using the legs."
+                  }
+                ]
+              },
+              {
+                "definition": "To admit of incision or severance; to yield to a cutting instrument.",
+                "labels": ["intransitive"]
+              },
+              {
+                "definition": "(heading, social) To separate, remove, reject or reduce.",
+                "labels": ["transitive"],
+                "subSenses": [
+                  {
+                    "definition": "To separate from prior association; to remove a portion of a recording during editing.",
+                    "usageExamples": ["Travis was cut from the team."]
+                  },
+                  {
+                    "definition": "To abridge a piece of printed or written work."
+                  },
+                  {
+                    "definition": "To reduce, especially intentionally.",
+                    "usageExamples": [
+                      "They're going to cut salaries by fifteen percent."
+                    ]
+                  },
+                  {
+                    "definition": "To absent oneself from (a class, an appointment, etc.).",
+                    "usageExamples": [
+                      "I cut fifth period to hang out with Angela."
+                    ]
+                  },
+                  {
+                    "definition": "To ignore as a social snub.",
+                    "usageExamples": [
+                      "After the incident at the dinner party, people started to cut him on the street."
+                    ]
+                  }
+                ]
+              },
+              {
+                "definition": "(audio, usually as imperative) To cease recording activities.",
+                "labels": ["intransitive"],
+                "context": { "domains": ["cinematography"] },
+                "usageExamples": [
+                  "After the actors read their lines, the director yelled, \"Cut!\""
+                ]
+              },
+              {
+                "definition": "To make an abrupt transition from one scene or image to another.",
+                "labels": ["intransitive"],
+                "context": { "domains": ["cinematography"] },
+                "usageExamples": [
+                  "The camera then cut to the woman on the front row who was clearly overcome and crying tears of joy."
+                ]
+              },
+              {
+                "definition": "To edit a film by selecting takes from original footage.",
+                "labels": ["transitive"],
+                "context": { "domains": ["cinematography"] }
+              },
+              {
+                "definition": "To remove and place in memory for later use.",
+                "labels": ["transitive"],
+                "context": { "domains": ["computing"] },
+                "usageExamples": [
+                  "Select the text, cut it, and then paste it in the other application."
+                ]
+              },
+              {
+                "definition": "To enter a queue in the wrong place.",
+                "labels": ["intransitive"],
+                "usageExamples": [
+                  "One student kept trying to cut in front of the line."
+                ]
+              },
+              {
+                "definition": "To intersect or cross in such a way as to divide in half or nearly so.",
+                "labels": ["intransitive"],
+                "usageExamples": ["This road cuts right through downtown."]
+              },
+              {
+                "definition": "To make the ball spin sideways by running one's fingers down the side of the ball while bowling it.",
+                "labels": ["transitive"],
+                "context": { "domains": ["cricket"] }
+              },
+              {
+                "definition": "To deflect (a bowled ball) to the off, with a chopping movement of the bat.",
+                "labels": ["transitive"],
+                "context": { "domains": ["cricket"] }
+              },
+              {
+                "definition": "To change direction suddenly.",
+                "labels": ["intransitive"],
+                "usageExamples": [
+                  "The football player cut to his left to evade a tackle."
+                ]
+              },
+              {
+                "definition": "To divide a pack of playing cards into two.",
+                "labels": ["intransitive", "transitive"],
+                "usageExamples": ["If you cut then I'll deal."]
+              },
+              {
+                "definition": "To write.",
+                "labels": ["slang", "transitive"],
+                "usageExamples": ["cut orders;  cut a check"]
+              },
+              {
+                "definition": "To dilute or adulterate something, especially a recreational drug.",
+                "labels": ["slang", "transitive"],
+                "usageExamples": [
+                  "Drug dealers sometimes cut cocaine with lidocaine.",
+                  "The bartender cuts his beer to save money and now it's all watery.",
+                  "The best malt whiskies are improved if they are cut with a dash of water."
+                ]
+              },
+              {
+                "definition": "To exhibit (a quality).",
+                "labels": ["transitive"]
+              },
+              {
+                "definition": "To stop or disengage.",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "Cut the engines when the plane comes to a halt!"
+                ]
+              },
+              {
+                "definition": "To drive (a ball) to one side, as by (in billiards or croquet) hitting it fine with another ball, or (in tennis) striking it with the racket inclined.",
+                "context": { "domains": ["sports"] }
+              },
+              {
+                "definition": "To lose body mass after bulking, aiming to keep the additional muscle but lose the fat.",
+                "context": { "domains": ["bodybuilding"] }
+              },
+              { "definition": "To perform (a dancing movement etc.)." }
+            ],
+            "forms": [
+              {
+                "form": "cuttedst",
+                "grammar": [
+                  {
+                    "person": ["second-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "cuttest",
+                "grammar": [
+                  {
+                    "person": ["second-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "cuts",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "cutteth",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "cut",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ]
+              },
+              {
+                "form": "cutting",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              }
+            ]
+          },
+          {
+            "lemma": "cut",
+            "partOfSpeech": "adjective",
+            "senses": [
+              {
+                "definition": "(participial adjective) Having been cut.",
+                "labels": ["comparable"]
+              },
+              {
+                "definition": "Reduced.",
+                "labels": ["comparable"],
+                "usageExamples": [
+                  "Cut brandy is a liquor made of brandy and hard grain liquor.",
+                  "The pitcher threw a cut fastball that was slower than his usual pitch."
+                ]
+              },
+              {
+                "definition": "Omitted from a literary, musical or other work.",
+                "labels": ["comparable"],
+                "usageExamples": [
+                  "My favourite song had been cut from the show."
+                ]
+              },
+              {
+                "definition": "(of a gem) Carved into a shape; not raw.",
+                "labels": ["comparable"]
+              },
+              {
+                "definition": "(of a shot) Played with a horizontal bat to hit the ball backward of point.",
+                "labels": ["comparable"],
+                "context": { "domains": ["cricket"] }
+              },
+              {
+                "definition": "Having muscular definition in which individual groups of muscle fibers stand out among larger muscles.",
+                "labels": ["comparable"],
+                "context": { "domains": ["bodybuilding"] }
+              },
+              {
+                "definition": "Circumcised or having been the subject of female genital mutilation",
+                "labels": ["comparable", "informal"]
+              },
+              {
+                "definition": "Emotionally hurt.",
+                "labels": ["comparable", "slang"],
+                "context": { "regions": ["Australia", "New Zealand"] }
+              },
+              {
+                "definition": "Eliminated from consideration during a recruitment drive.",
+                "labels": ["comparable"]
+              },
+              {
+                "definition": "Removed from a team roster.",
+                "labels": ["comparable"]
+              },
+              {
+                "definition": "Intoxicated as a result of drugs or alcohol.",
+                "labels": ["comparable"],
+                "context": { "regions": ["New Zealand"] }
+              }
+            ],
+            "forms": [
+              {
+                "form": "more cut",
+                "grammar": [{ "degree": ["comparative"] }]
+              },
+              { "form": "most cut", "grammar": [{ "degree": ["superlative"] }] }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/cut"]
+      }
+    ]
+  },
+  "resistant": {
+    "entries": [
+      {
+        "entry": "resistant",
+        "interpretations": [
+          {
+            "lemma": "resistant",
+            "normalizedLemmas": [{ "lemma": "resistant" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "resist", "type": "root" },
+              { "entry": "-ant", "type": "suffix" }
+            ]
+          },
+          {
+            "lemma": "resistant",
+            "normalizedLemmas": [{ "lemma": "resistant" }],
+            "partOfSpeech": "adjective",
+            "grammar": [{ "degree": ["positive"] }],
+            "morphemes": [
+              { "entry": "resist", "type": "root" },
+              { "entry": "-ant", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "resistant",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "A person who resists; especially a member of a resistance movement.",
+                "labels": ["countable"]
+              },
+              {
+                "definition": "A thing which resists.",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "resistants",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          },
+          {
+            "lemma": "resistant",
+            "partOfSpeech": "adjective",
+            "senses": [
+              {
+                "definition": "Which makes resistance or offers opposition.",
+                "labels": ["comparable"]
+              },
+              {
+                "definition": "Which is not affected or overcome by a disease, drug, chemical or atmospheric agent, extreme of temperature, etc.",
+                "labels": ["comparable"],
+                "usageExamples": ["The infection is resistant to antibiotics."]
+              },
+              {
+                "definition": "Not greatly influenced by individual members of a sample.",
+                "labels": ["comparable"],
+                "context": { "domains": ["mathematics"] }
+              }
+            ],
+            "forms": [
+              {
+                "form": "more resistant",
+                "grammar": [{ "degree": ["comparative"] }]
+              },
+              {
+                "form": "most resistant",
+                "grammar": [{ "degree": ["superlative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/resistant"]
+      }
+    ]
+  },
+  "noninfectious": {
+    "entries": [
+      {
+        "entry": "noninfectious",
+        "interpretations": [
+          {
+            "lemma": "noninfectious",
+            "normalizedLemmas": [{ "lemma": "noninfectious" }],
+            "partOfSpeech": "adjective",
+            "morphemes": [
+              { "entry": "non-", "type": "prefix" },
+              { "entry": "infect", "type": "root" },
+              { "entry": "-ion", "type": "suffix" },
+              { "entry": "-ous", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "noninfectious",
+            "partOfSpeech": "adjective",
+            "senses": [
+              {
+                "definition": "Not infectious, particularly with respect to a disease.",
+                "labels": ["not comparable"]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/noninfectious"]
+      }
+    ]
+  },
+  "snakebite": {
+    "entries": [
+      {
+        "entry": "snakebite",
+        "interpretations": [
+          {
+            "lemma": "snakebite",
+            "normalizedLemmas": [{ "lemma": "snakebite" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "snake", "type": "root" },
+              { "entry": "bite", "type": "root" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "snakebite",
+            "partOfSpeech": "noun",
+            "senses": [
+              { "definition": "The bite of a snake.", "labels": ["countable"] },
+              {
+                "definition": "A mixture of cider and lager.",
+                "labels": ["uncountable"]
+              },
+              {
+                "definition": "One of a pair of lip piercings below the lower lip, supposed to resemble the fangs of a snake.",
+                "labels": ["countable", "uncountable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "snakebites",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/snakebite"]
+      }
+    ]
+  },
+  "stomachache": {
+    "entries": [
+      {
+        "entry": "stomachache",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/ˈstʌməkˌeɪk/", "notation": "IPA" }
+            ]
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "stomachache",
+            "normalizedLemmas": [{ "lemma": "stomachache" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "stomach", "type": "root" },
+              { "entry": "ache", "type": "root" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "stomachache",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "A pain in the abdomen, often caused by indigestion. (The pain is usually lower than the stomach and related to the intestines.)",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "stomachaches",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/stomachache"]
+      }
+    ]
+  },
+  "X-ray": {
+    "entries": [
+      {
+        "entry": "X-ray",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/ˈɛks ɹeɪ/", "notation": "IPA" }
+            ],
+            "context": { "regions": ["United Kingdom"] }
+          },
+          {
+            "transcriptions": [
+              { "transcription": "/ˈɛks ˌɹeɪ/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/X-ray-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755001"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "X-ray",
+            "normalizedLemmas": [{ "lemma": "X-ray" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "X", "type": "root" },
+              { "entry": "ray", "type": "root" }
+            ]
+          },
+          {
+            "lemma": "X-ray",
+            "normalizedLemmas": [{ "lemma": "X-ray" }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person"],
+                "number": ["singular"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["subjunctive"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "mood": ["imperative"]
+              },
+              { "verbForm": ["infinitive"] }
+            ],
+            "morphemes": [
+              { "entry": "X", "type": "root" },
+              { "entry": "ray", "type": "root" }
+            ]
+          },
+          {
+            "lemma": "X-ray",
+            "normalizedLemmas": [{ "lemma": "X-ray" }],
+            "partOfSpeech": "adjective",
+            "morphemes": [
+              { "entry": "X", "type": "root" },
+              { "entry": "ray", "type": "root" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "X-ray",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "Short wavelength electromagnetic radiation usually produced by bombarding a metal target in a vacuum. Used to create images of the internal structure of objects; this is possible because X-rays pass through most objects and can expose photographic film.",
+                "labels": ["countable"],
+                "usageExamples": [
+                  "X-rays are light with a wavelength between 0.1 and 10 nm."
+                ]
+              },
+              {
+                "definition": "A radiograph: a photograph made with X-rays.",
+                "labels": ["countable"],
+                "usageExamples": [
+                  "\"The doctor ordered some X-rays of my injured wrist.\""
+                ]
+              },
+              { "definition": "An X-ray machine.", "labels": ["countable"] },
+              {
+                "definition": "The letter X in the ICAO spelling alphabet.",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "X-rays",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ],
+            "synonymSets": [
+              {
+                "sense": "radiation",
+                "synonyms": [
+                  "Roentgen radiation",
+                  "Rontgen radiation",
+                  "Röntgen radiation"
+                ]
+              },
+              {
+                "sense": "radiation",
+                "synonyms": ["Roentgen rays", "Rontgen rays", "Röntgen rays"]
+              },
+              { "sense": "radiation", "synonyms": ["X-ray radiation"] }
+            ]
+          },
+          {
+            "lemma": "X-ray",
+            "partOfSpeech": "verb",
+            "senses": [
+              {
+                "definition": "To take a radiograph of; to obtain an image of using X-ray radiation, especially for the purpose of medical diagnostic evaluation.",
+                "labels": ["informal", "transitive"],
+                "usageExamples": [
+                  "Of course there was nothing wrong with my left wrist. They X-rayed the wrong arm!"
+                ]
+              }
+            ],
+            "forms": [
+              {
+                "form": "X-rays",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "X-rayed",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ]
+              },
+              {
+                "form": "X-raying",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              }
+            ]
+          },
+          {
+            "lemma": "X-ray",
+            "partOfSpeech": "adjective",
+            "senses": [
+              {
+                "definition": "Of or having to do with X-rays.",
+                "labels": ["not comparable"],
+                "usageExamples": [
+                  "I had to put my bags through an X-ray scanner at the airport."
+                ]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/X-ray"]
+      }
+    ]
+  },
+  "confined": {
+    "entries": [
+      {
+        "entry": "confined",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/kənˈfaɪnd/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/confined-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2079673"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "confine",
+            "normalizedLemmas": [{ "lemma": "confine" }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["past"],
+                "mood": ["indicative"]
+              },
+              { "verbForm": ["participle"], "tense": ["past"] }
+            ],
+            "morphemes": [
+              { "entry": "confine", "type": "root" },
+              { "entry": "-ed", "type": "suffix" }
+            ]
+          },
+          {
+            "lemma": "confined",
+            "normalizedLemmas": [{ "lemma": "confined" }],
+            "partOfSpeech": "adjective",
+            "grammar": [{ "degree": ["positive"] }],
+            "morphemes": [
+              { "entry": "confine", "type": "root" },
+              { "entry": "-ed", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "confine",
+            "partOfSpeech": "verb",
+            "senses": [
+              {
+                "definition": "To restrict; to keep within bounds; to shut or keep in a limited space or area.",
+                "labels": ["transitive"]
+              },
+              {
+                "definition": "To have a common boundary; to border; to lie contiguous; to touch; followed by on or with."
+              }
+            ],
+            "forms": [
+              {
+                "form": "confinest",
+                "grammar": [
+                  {
+                    "person": ["second-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "confines",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "confineth",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "confined",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ]
+              },
+              {
+                "form": "confin'd",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "confining",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              }
+            ]
+          },
+          {
+            "lemma": "confined",
+            "partOfSpeech": "adjective",
+            "senses": [
+              { "definition": "Not free to move.", "labels": ["comparable"] },
+              {
+                "definition": "Limited; narrow; restricted.",
+                "labels": ["comparable"]
+              },
+              { "definition": "In childbed.", "labels": ["comparable"] }
+            ],
+            "forms": [
+              {
+                "form": "more confined",
+                "grammar": [{ "degree": ["comparative"] }]
+              },
+              {
+                "form": "most confined",
+                "grammar": [{ "degree": ["superlative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+          "https://en.wiktionary.org/wiki/confine",
+          "https://en.wiktionary.org/wiki/confined"
+        ]
+      }
+    ]
+  },
+  "campsite": {
+    "entries": [
+      {
+        "entry": "campsite",
+        "pronunciations": [
+          {
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/campsite-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1784049"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "campsite",
+            "normalizedLemmas": [{ "lemma": "campsite" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "camp", "type": "root" },
+              { "entry": "site", "type": "root" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "campsite",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "A place where a tent may be or is pitched.",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "campsites",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ],
+            "synonymSets": [{ "synonyms": ["camping site"] }]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/campsite"]
+      }
+    ]
+  },
+  "ecolodge": {
+    "entries": [
+      {
+        "entry": "ecolodge",
+        "interpretations": [
+          {
+            "lemma": "ecolodge",
+            "normalizedLemmas": [{ "lemma": "ecolodge" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "eco-", "type": "prefix" },
+              { "entry": "lodge", "type": "root" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "ecolodge",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "A building designed to house ecotourists, typically built and supported by local labour and with respect for the environment.",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "ecolodges",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/ecolodge"]
+      }
+    ]
+  },
+  "Buddhist": {
+    "entries": [
+      {
+        "entry": "Buddhist",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/ˈbudɪst/", "notation": "IPA" },
+              { "transcription": "/ˈbʊdɪst/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/Buddhist-uk.mp3",
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1869533"
+            },
+            "context": { "regions": ["United Kingdom"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "Buddhist",
+            "normalizedLemmas": [{ "lemma": "Buddhist" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }],
+            "morphemes": [
+              { "entry": "Buddha", "type": "root" },
+              { "entry": "-ist", "type": "suffix" }
+            ]
+          },
+          {
+            "lemma": "Buddhist",
+            "normalizedLemmas": [{ "lemma": "Buddhist" }],
+            "partOfSpeech": "adjective",
+            "grammar": [{ "degree": ["positive"] }],
+            "morphemes": [
+              { "entry": "Buddha", "type": "root" },
+              { "entry": "-ist", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "Buddhist",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "A practitioner of the religion and philosophy of Buddhism.",
+                "labels": ["countable"]
+              },
+              {
+                "definition": "A follower of the Indian religious and spiritual teacher, Buddha.",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "Buddhists",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          },
+          {
+            "lemma": "Buddhist",
+            "partOfSpeech": "adjective",
+            "senses": [
+              {
+                "definition": "Of, relating to, or practicing Buddhism.",
+                "labels": ["comparable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "more Buddhist",
+                "grammar": [{ "degree": ["comparative"] }]
+              },
+              {
+                "form": "most Buddhist",
+                "grammar": [{ "degree": ["superlative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/Buddhist"]
+      }
+    ]
+  },
+  "apply": {
+    "entries": [
+      {
+        "entry": "apply",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/əˈplaɪ/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/apply-1-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1676689"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "hyphenations": [["ap", "ply"]],
+        "interpretations": [
+          {
+            "lemma": "apply",
+            "homographNumber": 1,
+            "normalizedLemmas": [{ "lemma": "apply", "homographNumber": 1 }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person"],
+                "number": ["singular"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["subjunctive"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "mood": ["imperative"]
+              },
+              { "verbForm": ["infinitive"] }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "apply",
+            "homographNumber": 1,
+            "partOfSpeech": "verb",
+            "senses": [
+              {
+                "definition": "To lay or place; to put (one thing to another)",
+                "labels": ["transitive"],
+                "usageExamples": ["to apply cream to a rash"]
+              },
+              {
+                "definition": "To put to use; to use or employ for a particular purpose, or in a particular case",
+                "labels": ["transitive"],
+                "usageExamples": ["to apply funds to the repayment of a debt"],
+                "synonyms": ["appropriate", "devote", "use"]
+              },
+              {
+                "definition": "To make use of, declare, or pronounce, as suitable, fitting, or relative",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "We need to apply the skills we've learned to solve this problem"
+                ]
+              },
+              {
+                "definition": "To put closely; to join; to engage and employ diligently, or with attention",
+                "labels": ["transitive"],
+                "synonyms": ["attach", "incline"]
+              },
+              {
+                "definition": "To to address; to refer; generally used reflexively.",
+                "labels": ["transitive"]
+              },
+              {
+                "definition": "To submit oneself as a candidate (with the adposition \"to\" designating the recipient of the submission, and the adposition \"for\" designating the position).",
+                "labels": ["intransitive"],
+                "usageExamples": [
+                  "I recently applied to the tavern for a job as a bartender.",
+                  "Many of them don't know it, but almost a third of the inmates are eligible to apply for parole or work-release programs.",
+                  "Most of the colleges she applied to were ones she thought she had a good chance of getting into."
+                ]
+              },
+              {
+                "definition": "To pertain or be relevant to a specified individual or group.",
+                "labels": ["intransitive"],
+                "usageExamples": ["That rule only applies to foreigners."]
+              },
+              {
+                "definition": "To busy; to keep at work; to ply.",
+                "labels": ["obsolete"]
+              },
+              { "definition": "To visit.", "labels": ["obsolete"] }
+            ],
+            "forms": [
+              {
+                "form": "appliest",
+                "grammar": [
+                  {
+                    "person": ["second-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "applies",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "applieth",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "applied",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ]
+              },
+              {
+                "form": "applyed",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "applying",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              }
+            ],
+            "synonymSets": [
+              { "synonyms": ["appropriate", "devote", "use"] },
+              { "synonyms": ["attach", "incline"] }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/apply"]
+      },
+      {
+        "entry": "apply",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/ˈæp(ə)li/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/apply-2-uk.mp3",
+              "license": {
+                "name": "BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=83326140"
+            },
+            "context": { "regions": ["United Kingdom"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "apply",
+            "homographNumber": 2,
+            "normalizedLemmas": [
+              {
+                "lemma": "appley",
+                "relation": [
+                  {
+                    "entry": "apply",
+                    "relation": "alternative spelling",
+                    "normalizedEntry": "appley"
+                  }
+                ]
+              }
+            ],
+            "partOfSpeech": "adjective",
+            "grammar": [{ "degree": ["positive"] }],
+            "morphemes": [
+              { "entry": "apple", "type": "root" },
+              { "entry": "-y", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "appley",
+            "partOfSpeech": "adjective",
+            "senses": [
+              {
+                "definition": "Resembling apples, apple-like.",
+                "labels": ["comparable"]
+              },
+              {
+                "definition": "Of, or pertaining to, apples.",
+                "labels": ["comparable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "more appley",
+                "grammar": [{ "degree": ["comparative"] }]
+              },
+              {
+                "form": "most appley",
+                "grammar": [{ "degree": ["superlative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+          "https://en.wiktionary.org/wiki/appley",
+          "https://en.wiktionary.org/wiki/apply"
+        ]
+      }
+    ]
+  },
+  "get down": {
+    "entries": [
+      {
+        "entry": "get down",
+        "interpretations": [
+          {
+            "lemma": "get down",
+            "normalizedLemmas": [{ "lemma": "get down" }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person"],
+                "number": ["singular"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["subjunctive"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "mood": ["imperative"]
+              },
+              { "verbForm": ["infinitive"] }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "get down",
+            "partOfSpeech": "verb",
+            "senses": [
+              {
+                "definition": "To bring or come down; to descend; to cause to bring or come down.",
+                "labels": ["intransitive", "transitive"],
+                "usageExamples": [
+                  "Don't worry, I got the kitten down.",
+                  "The kitten climbed the tree, but then couldn't get down again."
+                ]
+              },
+              {
+                "definition": "To concentrate; attend.",
+                "labels": ["transitive"],
+                "usageExamples": ["To get down to the matter at hand."]
+              },
+              {
+                "definition": "To depress; discourage; fatigue.",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "Nothing gets me down so much as a rainy day."
+                ]
+              },
+              {
+                "definition": "To swallow (something).",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "The pill was so large that he couldn't get it down."
+                ]
+              },
+              {
+                "definition": "To relax and enjoy oneself completely; be uninhibited in one's enjoyment.",
+                "usageExamples": ["Getting down with a bunch of old friends."]
+              },
+              {
+                "definition": "To duck or take cover, usually to avoid harm. Commonly used as a caution or warning in the imperative.",
+                "labels": ["informal", "intransitive"],
+                "usageExamples": [
+                  "With bullets flying, all I could do was get down and pray."
+                ]
+              },
+              {
+                "definition": "To dance, particularly without inhibition or restraint, or in a sexually suggestive manner.",
+                "labels": ["informal", "intransitive"],
+                "synonyms": ["boogie down"]
+              },
+              {
+                "definition": "To party.",
+                "labels": ["informal", "intransitive"]
+              },
+              {
+                "definition": "To have sex.",
+                "labels": ["informal", "intransitive"]
+              },
+              {
+                "definition": "(of a child) To leave the table after dining.",
+                "labels": ["informal", "intransitive"],
+                "context": { "regions": ["United Kingdom"] },
+                "usageExamples": ["Mummy, can I get down?"]
+              },
+              {
+                "definition": "To record in writing.",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "Quick, here's a pen, get this down will you, before I forget."
+                ],
+                "synonyms": ["take down"]
+              },
+              {
+                "definition": "To criticise",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "Ann is always getting down on these students"
+                ]
+              }
+            ],
+            "forms": [
+              {
+                "form": "gets down",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "got down",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "getting down",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              },
+              {
+                "form": "gotten down",
+                "grammar": [{ "verbForm": ["participle"], "tense": ["past"] }]
+              }
+            ],
+            "synonymSets": [
+              { "synonyms": ["boogie down"] },
+              { "synonyms": ["take down"] }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/get%20down"]
+      }
+    ]
+  },
+  "get off": {
+    "entries": [
+      {
+        "entry": "get off",
+        "pronunciations": [
+          {
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/get%20off-au.mp3",
+              "license": {
+                "name": "BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79241231"
+            },
+            "context": { "regions": ["Australia"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "get off",
+            "normalizedLemmas": [{ "lemma": "get off" }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person"],
+                "number": ["singular"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["subjunctive"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "mood": ["imperative"]
+              },
+              { "verbForm": ["infinitive"] }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "get off",
+            "partOfSpeech": "verb",
+            "senses": [
+              {
+                "definition": "To move from being on top of (something) to not being on top of it.",
+                "labels": ["intransitive", "transitive"],
+                "usageExamples": [
+                  "Get off your chair and help me.",
+                  "Get off! You're crushing me!"
+                ]
+              },
+              {
+                "definition": "To move (something) from being on top of (something else) to not being on top of it.",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "Could you please get the book off the top shelf for me?",
+                  "Get your butt off your chair and help me."
+                ]
+              },
+              {
+                "definition": "To stop touching or physically interfering with something or someone.",
+                "labels": ["intransitive"],
+                "usageExamples": ["Don't tickle me – get off!"]
+              },
+              {
+                "definition": "To cause (something) to stop touching or interfering with (something else).",
+                "labels": ["transitive"]
+              },
+              {
+                "definition": "To stop using a piece of equipment, such as a telephone or computer.",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "Can you get off the phone, please? I need to use it urgently."
+                ]
+              },
+              {
+                "definition": "To disembark, especially from mass transportation such as a bus or train; to depart from (a path, highway, etc).",
+                "labels": ["intransitive", "transitive"],
+                "usageExamples": [
+                  "Let's get off the interstate at exit 70. No, let's get off at the very next exit.",
+                  "The heavens opened just as I got off the bus.",
+                  "When we reach the next stop, we'll get off.",
+                  "You get off the train at the third stop."
+                ]
+              },
+              {
+                "definition": "To make or help someone be ready to leave a place (especially to go to another place).",
+                "labels": ["transitive"]
+              },
+              {
+                "definition": "(possibly obsolete) To leave (somewhere) and start (a trip)."
+              },
+              {
+                "definition": "To leave one's job as scheduled or with permission.",
+                "labels": ["intransitive", "transitive"],
+                "usageExamples": [
+                  "If I can get off early tomorrow, I'll give you a ride home."
+                ]
+              },
+              {
+                "definition": "To reserve or have a period of time as a vacation from work.",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "She managed to get a week off in March to go to Paris."
+                ]
+              },
+              {
+                "definition": "To acquire (something) from (someone).",
+                "labels": ["transitive"]
+              },
+              {
+                "definition": "To escape serious or severe consequences; to receive only mild or no punishment (or injuries, etc) for something one has done or been accused of.",
+                "labels": ["intransitive"],
+                "usageExamples": [
+                  "The vandal got off easy, with only a fine.",
+                  "You got off lightly by not being kept in detention for breaking that window."
+                ]
+              },
+              {
+                "definition": "To help someone to escape serious or severe consequences and receive only mild or no punishment.",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "She could've faced jail time, but her talented lawyer got her off with only a fine."
+                ]
+              },
+              {
+                "definition": "To (write and) send (something); to discharge.",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "She intended to get a letter off to her sister first thing that morning."
+                ]
+              },
+              {
+                "definition": "To utter.",
+                "labels": ["obsolete", "transitive"],
+                "usageExamples": ["to get off a joke"]
+              },
+              {
+                "definition": "To make (someone) fall asleep.",
+                "labels": ["transitive"],
+                "context": { "regions": ["United Kingdom"] },
+                "usageExamples": [
+                  "He couldn't get the infant off until nearly two in the morning."
+                ]
+              },
+              {
+                "definition": "To fall asleep.",
+                "labels": ["intransitive"],
+                "context": { "regions": ["United Kingdom"] },
+                "usageExamples": [
+                  "If I wake up during the night, I cannot get off again."
+                ]
+              },
+              {
+                "definition": "To excite or arouse, especially in a sexual manner, as to cause to experience orgasm.",
+                "labels": ["slang", "transitive"]
+              },
+              {
+                "definition": "To experience great pleasure, especially sexual pleasure; in particular, to experience an orgasm.",
+                "labels": ["intransitive", "slang"],
+                "usageExamples": [
+                  "It takes more than a picture in a girlie magazine for me to get off."
+                ]
+              },
+              {
+                "definition": "To kiss; to smooch.",
+                "labels": ["intransitive", "slang"],
+                "context": { "regions": ["United Kingdom"] },
+                "usageExamples": [
+                  "I'd like to get off with him after the party."
+                ]
+              },
+              { "definition": "To get high (on a drug)." },
+              {
+                "definition": "(especially in an interrogative sentence) To find enjoyment (in behaving in a presumptuous, rude, or intrusive manner).",
+                "labels": ["transitive"],
+                "usageExamples": [
+                  "Where do you get off talking to me like that?"
+                ]
+              },
+              {
+                "definition": "Indicates annoyance or dismissiveness.",
+                "labels": ["intransitive"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "gets off",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "got off",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ]
+              },
+              {
+                "form": "getting off",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              },
+              {
+                "form": "gotten off",
+                "grammar": [{ "verbForm": ["participle"], "tense": ["past"] }]
+              }
+            ],
+            "synonymSets": [
+              {
+                "sense": "disembark",
+                "synonyms": [
+                  "alight",
+                  "debus",
+                  "deplane",
+                  "detrain",
+                  "disembark",
+                  "leave"
+                ]
+              },
+              {
+                "sense": "experience sexual pleasure",
+                "synonyms": ["cop off"]
+              },
+              { "sense": "fall asleep", "synonyms": ["drop off"] },
+              {
+                "sense": "move from being on top of",
+                "synonyms": ["get down"]
+              },
+              {
+                "sense": "stop touching someone",
+                "synonyms": [
+                  "desist",
+                  "leave alone",
+                  "let alone",
+                  "refrain",
+                  "stop"
+                ]
+              }
+            ],
+            "antonymSets": [
+              { "sense": "disembark", "antonyms": ["get in", "get on"] }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/get%20off"]
+      }
+    ]
+  },
+  "peal": {
+    "entries": [
+      {
+        "entry": "peal",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/piːl/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/peal-uk.mp3",
+              "license": {
+                "name": "BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=90007894"
+            },
+            "context": { "regions": ["United Kingdom"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "peal",
+            "homographNumber": 1,
+            "normalizedLemmas": [{ "lemma": "peal", "homographNumber": 1 }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }]
+          },
+          {
+            "lemma": "peal",
+            "homographNumber": 1,
+            "normalizedLemmas": [{ "lemma": "peal", "homographNumber": 1 }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person"],
+                "number": ["singular"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["subjunctive"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "mood": ["imperative"]
+              },
+              { "verbForm": ["infinitive"] }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "peal",
+            "homographNumber": 1,
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "A loud sound, or a succession of loud sounds, as of bells, thunder, cannon, shouts, laughter, of a multitude, etc.",
+                "labels": ["countable"]
+              },
+              {
+                "definition": "A set of bells tuned to each other according to the diatonic scale.",
+                "labels": ["countable"]
+              },
+              {
+                "definition": "The changes rung on a set of bells.",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "peals",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          },
+          {
+            "lemma": "peal",
+            "homographNumber": 1,
+            "partOfSpeech": "verb",
+            "senses": [
+              {
+                "definition": "To sound with a peal or peals.",
+                "labels": ["intransitive"]
+              },
+              {
+                "definition": "To utter or sound loudly.",
+                "labels": ["transitive"]
+              },
+              {
+                "definition": "To assail with noise.",
+                "labels": ["transitive"]
+              },
+              {
+                "definition": "To resound; to echo.",
+                "labels": ["intransitive"]
+              },
+              {
+                "definition": "To pour out.",
+                "labels": ["dialectal"],
+                "context": { "regions": ["United Kingdom"] }
+              },
+              { "definition": "To appeal.", "labels": ["obsolete"] }
+            ],
+            "forms": [
+              {
+                "form": "pealest",
+                "grammar": [
+                  {
+                    "person": ["second-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "peals",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "pealeth",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ],
+                "labels": ["obsolete"]
+              },
+              {
+                "form": "pealed",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ]
+              },
+              {
+                "form": "pealing",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/peal"]
+      },
+      {
+        "entry": "peal",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/piːl/", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/peal-uk.mp3",
+              "license": {
+                "name": "BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=90007894"
+            },
+            "context": { "regions": ["United Kingdom"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "peal",
+            "homographNumber": 2,
+            "normalizedLemmas": [{ "lemma": "peal", "homographNumber": 2 }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "peal",
+            "homographNumber": 2,
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "A small salmon; a grilse; a sewin.",
+                "labels": ["countable"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "peals",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/peal"]
+      }
+    ]
+  },
+  "deculturize": {
+    "entries": [
+      {
+        "entry": "deculturize",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/diːˈkʊɫtʃəɹaɪz/", "notation": "IPA" },
+              { "transcription": "/diːˈkʌɫtʃəɹaɪz/", "notation": "IPA" }
+            ],
+            "context": { "regions": ["United Kingdom"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "deculturize",
+            "normalizedLemmas": [{ "lemma": "deculturize" }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person"],
+                "number": ["singular"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["subjunctive"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "mood": ["imperative"]
+              },
+              { "verbForm": ["infinitive"] }
+            ],
+            "morphemes": [
+              { "entry": "de-", "type": "prefix" },
+              { "entry": "culture", "type": "root" },
+              { "entry": "-ize", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "deculturize",
+            "partOfSpeech": "verb",
+            "senses": [
+              { "definition": "To strip of culture.", "labels": ["transitive"] }
+            ],
+            "forms": [
+              {
+                "form": "deculturizes",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "deculturized",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ]
+              },
+              {
+                "form": "deculturizing",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              }
+            ],
+            "synonymSets": [
+              {
+                "sense": "to strip of culture",
+                "synonyms": ["deculturate", "deculture"]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/deculturize"]
+      }
+    ]
+  },
+  "destructive": {
+    "entries": [
+      {
+        "entry": "destructive",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/dɪˈstɹʊktɪv/", "notation": "IPA" },
+              { "transcription": "/dɪˈstɹʌktɪv/", "notation": "IPA" }
+            ],
+            "context": { "regions": ["United Kingdom"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "destructive",
+            "normalizedLemmas": [{ "lemma": "destructive" }],
+            "partOfSpeech": "adjective",
+            "grammar": [{ "degree": ["positive"] }],
+            "morphemes": [
+              { "entry": "destroy", "type": "root" },
+              { "entry": "-ive", "type": "suffix" }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "destructive",
+            "partOfSpeech": "adjective",
+            "senses": [
+              {
+                "definition": "Causing destruction; damaging.",
+                "labels": ["comparable"]
+              },
+              {
+                "definition": "Causing breakdown or disassembly.",
+                "labels": ["comparable"],
+                "usageExamples": [
+                  "Catabolism is a destructive metabolism that involves the breakdown of molecules and release of energy."
+                ]
+              },
+              {
+                "definition": "Lossy; causing irreversible change.",
+                "labels": ["comparable"],
+                "context": { "domains": ["computing"] },
+                "usageExamples": [
+                  "Blurring an image is a destructive operation, but rotating an image is not."
+                ]
+              }
+            ],
+            "forms": [
+              {
+                "form": "more destructive",
+                "grammar": [{ "degree": ["comparative"] }]
+              },
+              {
+                "form": "most destructive",
+                "grammar": [{ "degree": ["superlative"] }]
+              }
+            ],
+            "synonymSets": [
+              { "synonyms": ["calamitous"] },
+              { "synonyms": ["catastrophic"] },
+              { "synonyms": ["devastating"] },
+              { "synonyms": ["disastrous"] },
+              { "synonyms": ["eradicative"] },
+              { "synonyms": ["harmful"] },
+              { "synonyms": ["pernicious"] },
+              { "synonyms": ["ruinous"] },
+              { "synonyms": ["wrackful"] },
+              { "synonyms": ["wreckful"] }
+            ],
+            "antonymSets": [
+              { "antonyms": ["constructive"] },
+              { "antonyms": ["nondestructive"] },
+              { "antonyms": ["productive"] }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/destructive"]
+      }
+    ]
+  },
+  "radio": {
+    "entries": [
+      {
+        "entry": "radio",
+        "pronunciations": [
+          {
+            "transcriptions": [
+              { "transcription": "/ˈɹeɪdiˌəʊ/", "notation": "IPA" }
+            ],
+            "context": { "regions": ["United Kingdom"] }
+          },
+          {
+            "transcriptions": [
+              { "transcription": "/ˈɹeɪdiˌoʊ/", "notation": "IPA" },
+              { "transcription": "[ˈɹeɪɾiˌoʊ]", "notation": "IPA" }
+            ],
+            "audio": {
+              "url": "https://api.linguarobot.io/media/pronunciations/en/radio-us.mp3",
+              "license": {
+                "name": "BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+              },
+              "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755206"
+            },
+            "context": { "regions": ["United States"] }
+          }
+        ],
+        "interpretations": [
+          {
+            "lemma": "radio",
+            "normalizedLemmas": [{ "lemma": "radio" }],
+            "partOfSpeech": "noun",
+            "grammar": [{ "number": ["singular"], "case": ["nominative"] }]
+          },
+          {
+            "lemma": "radio",
+            "normalizedLemmas": [{ "lemma": "radio" }],
+            "partOfSpeech": "verb",
+            "grammar": [
+              {
+                "person": ["first-person", "second-person"],
+                "number": ["singular"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["indicative"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "tense": ["present"],
+                "mood": ["subjunctive"]
+              },
+              {
+                "person": ["first-person", "second-person", "third-person"],
+                "number": ["singular", "plural"],
+                "verbForm": ["finite"],
+                "mood": ["imperative"]
+              },
+              { "verbForm": ["infinitive"] }
+            ]
+          }
+        ],
+        "lexemes": [
+          {
+            "lemma": "radio",
+            "partOfSpeech": "noun",
+            "senses": [
+              {
+                "definition": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.",
+                "labels": ["uncountable"]
+              },
+              {
+                "definition": "A device that can capture (receive) the signal sent over radio waves and render the modulated signal as sound.",
+                "labels": ["countable"]
+              },
+              {
+                "definition": "On-board entertainment system in a car, usually including a radio receiver as well as the capability to play audio from recorded media.",
+                "labels": ["countable"]
+              },
+              {
+                "definition": "A device that can transmit radio signals.",
+                "labels": ["countable"]
+              },
+              {
+                "definition": "The continuous broadcasting of sound via the Internet in the style of traditional radio.",
+                "labels": ["uncountable"],
+                "context": { "domains": ["Internet"] }
+              }
+            ],
+            "forms": [
+              {
+                "form": "radios",
+                "grammar": [{ "number": ["plural"], "case": ["nominative"] }]
+              }
+            ],
+            "synonymSets": [
+              {
+                "sense": "device to capture radio signal",
+                "synonyms": ["receiver", "tuner", "wireless"]
+              }
+            ]
+          },
+          {
+            "lemma": "radio",
+            "partOfSpeech": "verb",
+            "senses": [
+              {
+                "definition": "To use two-way radio to transmit (a message) (to another radio or other radio operator).",
+                "labels": ["intransitive", "transitive"],
+                "usageExamples": [
+                  "I think the boat is sinking; we'd better radio for help. / I radioed him already. / Radio the coordinates this time. / OK. I radioed them the coordinates."
+                ]
+              },
+              {
+                "definition": "To order or assist (to a location), using telecommunications.",
+                "labels": ["transitive"]
+              }
+            ],
+            "forms": [
+              {
+                "form": "radios",
+                "grammar": [
+                  {
+                    "person": ["third-person"],
+                    "number": ["singular"],
+                    "verbForm": ["finite"],
+                    "tense": ["present"],
+                    "mood": ["indicative"]
+                  }
+                ]
+              },
+              {
+                "form": "radioed",
+                "grammar": [
+                  {
+                    "person": ["first-person", "second-person", "third-person"],
+                    "number": ["singular", "plural"],
+                    "verbForm": ["finite"],
+                    "tense": ["past"],
+                    "mood": ["indicative"]
+                  },
+                  { "verbForm": ["participle"], "tense": ["past"] }
+                ]
+              },
+              {
+                "form": "radioing",
+                "grammar": [
+                  { "verbForm": ["participle"], "tense": ["present"] },
+                  { "verbForm": ["gerund"] }
+                ]
+              }
+            ]
+          }
+        ],
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": ["https://en.wiktionary.org/wiki/radio"]
+      }
+    ]
+  }
+}
